@@ -8,6 +8,6 @@ Link to Project: https://ayeshasalonco.netlify.app/
 # How It's Made:
 <strong>Tech used:</strong> HTML, CSS, Javascript
 
-I first focused on the structure for the site. I decided how I wanted to oraganize each section. I created a section for each part of the website. I started with the intro. Using HTML, I input the logo for the site as well as the photo. The button was created as well which leads to the about us section when clicked. 
-
+I first focused on the structure of the site. I decided how I wanted to organize each section. I created sectioned each part of the website and labeled each. Using HTML, I input the logo for the site and the photo. The button leads to the about us section when clicked. I changed the button color and rounded the corners of it using CSS. I also added the images for each. I also created a list of services for the salon. I organized each type of service into sections and set the border's color and weight. For each stylist, I included their name and bio on the left. I added their picture on the right. For the salon hours, I created a table.
 # Lessons Learned
+This project helped me to refine my HTML and CSS skills. 
